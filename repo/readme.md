@@ -6,12 +6,7 @@
 
 -Install both of them.
 
--Download finalversionionetbotforwindowsOS.py
-
--Download requirements.txt from repo
-
-
-
+-Download finalversionionetbotforwindowsOS.py and requirements.txt from repo https://github.com/WarDaddyy/telegram-bot-for-io.net-on-Windows-OS/tree/main/repo
 
 
 -In whichever directory the "requirements.txt" file is located, open PowerShell with "shift+right-click" and open the "PowerShell window from here" option.
